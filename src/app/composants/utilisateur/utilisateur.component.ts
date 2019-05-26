@@ -14,7 +14,7 @@ export class UtilisateurComponent implements OnInit {
   constructor(private donnees: DonneesService) {
     this.nom = 'Aissa';
     this.age = 37;
-    this.email = 'crmdev125@gmail.com';
+    this.email = 'exemple@gmail.com';
     this.hobby = {
       hobbyUn: 'Basket',
       hobbyDeux: 'lire',
